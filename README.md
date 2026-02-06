@@ -1,11 +1,5 @@
 # pylobid
 
-[![Build the docs](https://github.com/csae8092/pylobid/actions/workflows/docs.yml/badge.svg)](https://github.com/csae8092/pylobid/actions/workflows/docs.yml)
-[![flake8 Lint](https://github.com/csae8092/pylobid/actions/workflows/lint.yml/badge.svg)](https://github.com/csae8092/pylobid/actions/workflows/lint.yml)
-[![Test](https://github.com/csae8092/pylobid/actions/workflows/test.yml/badge.svg)](https://github.com/csae8092/pylobid/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/csae8092/pylobid/graph/badge.svg?token=52C1Z6KJHM)](https://codecov.io/gh/csae8092/pylobid)
-[![PyPI version](https://badge.fury.io/py/pylobid.svg)](https://badge.fury.io/py/pylobid)
-
 `pylobid` is a Python LOBID-REST-API client. [Lobid](https://lobid.org) is a web service providing data from the [GND](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html) - Gemeinsame Normdatei of the German National Library. This fork of pylobid is used for the [liszt-editor](https://github.com/dikastes/liszt-editor)
 
 - **Free software**: MIT license
@@ -22,4 +16,5 @@
 
 * Peter Andorfer <p.andorfer@gmail.com>
 * Christian Lölkes <christian.loelkes@gmail.com>
+* Nathanael Mehlhorn <nathanael.georg.mehlhorn@slub-dresden.de>
 

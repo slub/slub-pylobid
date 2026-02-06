@@ -3,14 +3,15 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pylobid"
+name = "slub-pylobid"
 version = "2.3.0"
-description = "A lobid-REST-API client"
+description = "A lobid-REST-API client for the liszt-editor"
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [
     { name = "Peter Andorfer", email = "p.andorfer@gmail.com" },
     { name = "Christian Lölkes", email = "christian.loelkes@gmail.com" },
+    { name = "Nathanael Mehlhorn", email = "nathanael.georg.mehlhorn@slub-dresden.de" },
 ]
 requires-python = ">=3.6"
 keywords = ["lobid"]
