@@ -18,3 +18,6 @@
 * Christian Lölkes <christian.loelkes@gmail.com>
 * Nathanael Mehlhorn <nathanael.georg.mehlhorn@slub-dresden.de>
 
+## Questions
+If you habe any questtions, feel free to contact <matthias.schrinner@slub-dresden.de>
+
