@@ -123,7 +123,7 @@ TEST_ORG_NAMES_LOCATIONS = [
     },
     {
         "id": "http://d-nb.info/gnd/600902-5",
-        "pref_name": "Akademisches Gymnasium (Wien)",
+        "pref_name": "Akademisches Gymnasium Wien",
         "located_in": [{"id": "https://d-nb.info/gnd/4066009-6", "label": "Wien"}],
     },
     {
